@@ -1,2 +1,2 @@
 # Acoustic Geomechanics
-This section has scripts and contents related to applications of acoustics on geomechanics
+This section has scripts and contents showing how acoustics addresses some basic geomechanics problems
